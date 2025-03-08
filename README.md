@@ -1,4 +1,4 @@
-royek ini bertujuan untuk membangun model machine learning untuk memprediksi rating film berdasarkan dataset ratings.csv. Selain itu, dilakukan eksplorasi data (EDA) untuk menganalisis hubungan antara genre film dan rating yang diberikan oleh pengguna.
+Proyek ini bertujuan untuk membangun model machine learning untuk memprediksi rating film berdasarkan dataset ratings.csv. Selain itu, dilakukan eksplorasi data (EDA) untuk menganalisis hubungan antara genre film dan rating yang diberikan oleh pengguna.
 
 Langkah-langkah utama dalam proyek ini meliputi:
 
